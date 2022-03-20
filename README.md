@@ -5,6 +5,6 @@
 
 [![Releases](https://img.shields.io/github/release/ChawThiriSoe1779/sem/all.svg?style=flat-square)](https://github.com/ChawThiriSoe1779/sem/releases)
 
-Master ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ChawThiriSoe1779/sem/A%20workflow%20for%20my%20Hello%20World%20App/master?style=flat-square)
+Master branch ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ChawThiriSoe1779/sem/A%20workflow%20for%20my%20Hello%20World%20App/master?style=flat-square)
 
-Develop ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ChawThiriSoe1779/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
+Develop branch ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ChawThiriSoe1779/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
